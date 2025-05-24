@@ -1,0 +1,4 @@
+<meta>
+    <min_mta_version server="1.5.4-9.11342" />
+    <script src="sendPlayerCount.lua" type="server" />
+</meta>
