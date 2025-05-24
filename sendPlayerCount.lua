@@ -1,4 +1,4 @@
-local url = "https://bmrmta.squareweb.app/api/app"
+local url = ""
 
 function enviarDadosServidor()
     local tbl = toJSON({
